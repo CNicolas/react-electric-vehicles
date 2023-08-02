@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-electric-vehicles/static/css/main.e6c2bcfb.css",
+    "main.js": "/react-electric-vehicles/static/js/main.c322fa8c.js",
+    "static/js/787.488aca81.chunk.js": "/react-electric-vehicles/static/js/787.488aca81.chunk.js",
+    "index.html": "/react-electric-vehicles/index.html",
+    "main.e6c2bcfb.css.map": "/react-electric-vehicles/static/css/main.e6c2bcfb.css.map",
+    "main.c322fa8c.js.map": "/react-electric-vehicles/static/js/main.c322fa8c.js.map",
+    "787.488aca81.chunk.js.map": "/react-electric-vehicles/static/js/787.488aca81.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c2bcfb.css",
+    "static/js/main.c322fa8c.js"
+  ]
+}
