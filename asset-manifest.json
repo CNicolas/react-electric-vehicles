@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/react-electric-vehicles/static/css/main.f649db5f.css",
-    "main.js": "/react-electric-vehicles/static/js/main.3ef382bf.js",
+    "main.css": "/react-electric-vehicles/static/css/main.edac2053.css",
+    "main.js": "/react-electric-vehicles/static/js/main.c773931d.js",
     "static/js/787.488aca81.chunk.js": "/react-electric-vehicles/static/js/787.488aca81.chunk.js",
     "index.html": "/react-electric-vehicles/index.html",
-    "main.f649db5f.css.map": "/react-electric-vehicles/static/css/main.f649db5f.css.map",
-    "main.3ef382bf.js.map": "/react-electric-vehicles/static/js/main.3ef382bf.js.map",
+    "main.edac2053.css.map": "/react-electric-vehicles/static/css/main.edac2053.css.map",
+    "main.c773931d.js.map": "/react-electric-vehicles/static/js/main.c773931d.js.map",
     "787.488aca81.chunk.js.map": "/react-electric-vehicles/static/js/787.488aca81.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f649db5f.css",
-    "static/js/main.3ef382bf.js"
+    "static/css/main.edac2053.css",
+    "static/js/main.c773931d.js"
   ]
 }
