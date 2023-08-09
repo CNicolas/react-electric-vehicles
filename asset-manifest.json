@@ -1,15 +1,39 @@
 {
   "files": {
-    "main.css": "/react-electric-vehicles/static/css/main.c00cfc46.css",
-    "main.js": "/react-electric-vehicles/static/js/main.dd42879b.js",
+    "main.css": "/react-electric-vehicles/static/css/main.c0987f77.css",
+    "main.js": "/react-electric-vehicles/static/js/main.41b59c7a.js",
     "static/js/787.488aca81.chunk.js": "/react-electric-vehicles/static/js/787.488aca81.chunk.js",
+    "static/media/2_side.avif": "/react-electric-vehicles/static/media/2_side.5f206c3e1ff90a5821fd.avif",
+    "static/media/1_front.avif": "/react-electric-vehicles/static/media/1_front.ab4f207da23b70e9463e.avif",
+    "static/media/4_dashboard.avif": "/react-electric-vehicles/static/media/4_dashboard.c85b24fa93ce20707798.avif",
+    "static/media/3_trunk.avif": "/react-electric-vehicles/static/media/3_trunk.dab3e4ab93b81b61f2bc.avif",
+    "static/media/1_back.avif": "/react-electric-vehicles/static/media/1_back.b1d0286888dc770066bd.avif",
+    "static/media/2_backseats.avif": "/react-electric-vehicles/static/media/2_backseats.032ee3e96047f8747c22.avif",
+    "static/media/3_dashboard.avif": "/react-electric-vehicles/static/media/3_dashboard.e9550f769e855b3cf50d.avif",
+    "static/media/1_dashboard.avif": "/react-electric-vehicles/static/media/1_dashboard.c41b4361cf51ccd609a6.avif",
+    "static/media/1_side.avif": "/react-electric-vehicles/static/media/1_side.f14988eb5d5889331af3.avif",
+    "static/media/4_side.avif": "/react-electric-vehicles/static/media/4_side.64a854eebecaf458c49c.avif",
+    "static/media/3_side.avif": "/react-electric-vehicles/static/media/3_side.21aab51a4aefdce920f8.avif",
+    "static/media/2_dashboard.avif": "/react-electric-vehicles/static/media/2_dashboard.c1c97f4f6fb027094c16.avif",
+    "static/media/3_back.avif": "/react-electric-vehicles/static/media/3_back.01552c4aecbbaa78d3f6.avif",
+    "static/media/2_back.avif": "/react-electric-vehicles/static/media/2_back.e58f89e3e7f4475b283c.avif",
+    "static/media/4_backseats.avif": "/react-electric-vehicles/static/media/4_backseats.3ff3b74d841e7d6d9fc5.avif",
+    "static/media/2_front.avif": "/react-electric-vehicles/static/media/2_front.baffd9ad4955316b3a98.avif",
+    "static/media/1_trunk.avif": "/react-electric-vehicles/static/media/1_trunk.8687044b608fed7d5bf9.avif",
+    "static/media/3_front.avif": "/react-electric-vehicles/static/media/3_front.77b597170354e137a2d5.avif",
+    "static/media/4_front.avif": "/react-electric-vehicles/static/media/4_front.b0cfaa1b497de9428e6d.avif",
+    "static/media/4_back.avif": "/react-electric-vehicles/static/media/4_back.4eeeb66c831c72f4c499.avif",
+    "static/media/4_trunk.avif": "/react-electric-vehicles/static/media/4_trunk.a3a4a321e4a8c4c1986d.avif",
+    "static/media/3_backseats.avif": "/react-electric-vehicles/static/media/3_backseats.25cee576127abc3ca949.avif",
+    "static/media/1_backseats.avif": "/react-electric-vehicles/static/media/1_backseats.75249aae06568e1413c3.avif",
+    "static/media/2_trunk.avif": "/react-electric-vehicles/static/media/2_trunk.ee22c62388070da3cfa8.avif",
     "index.html": "/react-electric-vehicles/index.html",
-    "main.c00cfc46.css.map": "/react-electric-vehicles/static/css/main.c00cfc46.css.map",
-    "main.dd42879b.js.map": "/react-electric-vehicles/static/js/main.dd42879b.js.map",
+    "main.c0987f77.css.map": "/react-electric-vehicles/static/css/main.c0987f77.css.map",
+    "main.41b59c7a.js.map": "/react-electric-vehicles/static/js/main.41b59c7a.js.map",
     "787.488aca81.chunk.js.map": "/react-electric-vehicles/static/js/787.488aca81.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c00cfc46.css",
-    "static/js/main.dd42879b.js"
+    "static/css/main.c0987f77.css",
+    "static/js/main.41b59c7a.js"
   ]
 }
