@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-electric-vehicles/static/css/main.c0987f77.css",
-    "main.js": "/react-electric-vehicles/static/js/main.fc9331f1.js",
+    "main.js": "/react-electric-vehicles/static/js/main.94ee3271.js",
     "static/js/787.488aca81.chunk.js": "/react-electric-vehicles/static/js/787.488aca81.chunk.js",
     "static/media/audi-q4-sportback_side.avif": "/react-electric-vehicles/static/media/audi-q4-sportback_side.5f206c3e1ff90a5821fd.avif",
     "static/media/skoda-enyaq_backseats.avif": "/react-electric-vehicles/static/media/skoda-enyaq_backseats.a896b0120d50d326a15e.avif",
@@ -65,11 +65,11 @@
     "static/media/audi-q4-sportback_trunk.avif": "/react-electric-vehicles/static/media/audi-q4-sportback_trunk.ee22c62388070da3cfa8.avif",
     "index.html": "/react-electric-vehicles/index.html",
     "main.c0987f77.css.map": "/react-electric-vehicles/static/css/main.c0987f77.css.map",
-    "main.fc9331f1.js.map": "/react-electric-vehicles/static/js/main.fc9331f1.js.map",
+    "main.94ee3271.js.map": "/react-electric-vehicles/static/js/main.94ee3271.js.map",
     "787.488aca81.chunk.js.map": "/react-electric-vehicles/static/js/787.488aca81.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.c0987f77.css",
-    "static/js/main.fc9331f1.js"
+    "static/js/main.94ee3271.js"
   ]
 }
