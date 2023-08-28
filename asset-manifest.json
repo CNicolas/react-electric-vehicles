@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-electric-vehicles/static/css/main.c0987f77.css",
-    "main.js": "/react-electric-vehicles/static/js/main.90591f09.js",
+    "main.css": "/react-electric-vehicles/static/css/main.0f34f06c.css",
+    "main.js": "/react-electric-vehicles/static/js/main.7c942b72.js",
     "static/js/787.488aca81.chunk.js": "/react-electric-vehicles/static/js/787.488aca81.chunk.js",
     "static/media/audi-q4-sportback_side.avif": "/react-electric-vehicles/static/media/audi-q4-sportback_side.5f206c3e1ff90a5821fd.avif",
     "static/media/skoda-enyaq_backseats.avif": "/react-electric-vehicles/static/media/skoda-enyaq_backseats.a896b0120d50d326a15e.avif",
@@ -41,6 +41,7 @@
     "static/media/bmw-ix1_back.avif": "/react-electric-vehicles/static/media/bmw-ix1_back.01552c4aecbbaa78d3f6.avif",
     "static/media/kia-ev6_front.avif": "/react-electric-vehicles/static/media/kia-ev6_front.1f8956f337ea9160ecdd.avif",
     "static/media/volvo-xc40-recharge_trunk.avif": "/react-electric-vehicles/static/media/volvo-xc40-recharge_trunk.ca9b68840fbb934deed2.avif",
+    "service-worker.js": "/react-electric-vehicles/service-worker.js",
     "static/media/hyundai-ioniq-5_dashboard.avif": "/react-electric-vehicles/static/media/hyundai-ioniq-5_dashboard.218192b3dee48097a676.avif",
     "static/media/skoda-enyaq_trunk.avif": "/react-electric-vehicles/static/media/skoda-enyaq_trunk.de9a3cd3946e105825f0.avif",
     "static/media/hyundai-ioniq-5_front.avif": "/react-electric-vehicles/static/media/hyundai-ioniq-5_front.b98dae958e28ac9a9fc8.avif",
@@ -82,12 +83,12 @@
     "static/media/mercedes-eqb-250_backseats.avif": "/react-electric-vehicles/static/media/mercedes-eqb-250_backseats.cb9c559bbfaecd994f86.avif",
     "static/media/audi-q4-sportback_trunk.avif": "/react-electric-vehicles/static/media/audi-q4-sportback_trunk.ee22c62388070da3cfa8.avif",
     "index.html": "/react-electric-vehicles/index.html",
-    "main.c0987f77.css.map": "/react-electric-vehicles/static/css/main.c0987f77.css.map",
-    "main.90591f09.js.map": "/react-electric-vehicles/static/js/main.90591f09.js.map",
+    "main.0f34f06c.css.map": "/react-electric-vehicles/static/css/main.0f34f06c.css.map",
+    "main.7c942b72.js.map": "/react-electric-vehicles/static/js/main.7c942b72.js.map",
     "787.488aca81.chunk.js.map": "/react-electric-vehicles/static/js/787.488aca81.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c0987f77.css",
-    "static/js/main.90591f09.js"
+    "static/css/main.0f34f06c.css",
+    "static/js/main.7c942b72.js"
   ]
 }
