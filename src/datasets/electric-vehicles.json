@@ -105,6 +105,21 @@
     "surface": 8.56
   },
   {
+    "code": "renault-scenic-e-tech-87",
+    "consumption": 15.5,
+    "look": 3.5
+    "name": "Renault Scenic E-Tech Grande Autonomie",
+    "power": 7.9,
+    "practicality": 4,
+    "price": 48640,
+    "quality": 3,
+    "range": 633,
+    "supercharge": 25,
+    "trunk": 545,
+    "volume": 13.1,
+    "surface": 8.33
+  },
+  {
     "code": "skoda-enyaq",
     "consumption": 19.2,
     "look": 3.5,
