@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-electric-vehicles/static/css/main.5c2d694b.css",
-    "main.js": "/react-electric-vehicles/static/js/main.f13eea08.js",
+    "main.css": "/react-electric-vehicles/static/css/main.1571a931.css",
+    "main.js": "/react-electric-vehicles/static/js/main.fbf576df.js",
     "static/js/488.86754ba4.chunk.js": "/react-electric-vehicles/static/js/488.86754ba4.chunk.js",
     "static/media/audi-q4-sportback_side.avif": "/react-electric-vehicles/static/media/audi-q4-sportback_side.5f206c3e1ff90a5821fd.avif",
     "static/media/skoda-enyaq_backseats.avif": "/react-electric-vehicles/static/media/skoda-enyaq_backseats.a896b0120d50d326a15e.avif",
@@ -69,9 +69,9 @@
     "static/media/audi-q4_trunk.avif": "/react-electric-vehicles/static/media/audi-q4_trunk.8687044b608fed7d5bf9.avif",
     "static/media/ds-7-etense_backseats.avif": "/react-electric-vehicles/static/media/ds-7-etense_backseats.de93a1bf5d7b17f59d9e.avif",
     "static/media/bmw-ix1_front.avif": "/react-electric-vehicles/static/media/bmw-ix1_front.77b597170354e137a2d5.avif",
+    "service-worker.js": "/react-electric-vehicles/service-worker.js",
     "static/media/hyundai-ioniq-5_back.avif": "/react-electric-vehicles/static/media/hyundai-ioniq-5_back.76463ccce6e28f190bc8.avif",
     "static/media/ford-mustang-mach-e-premium_front.avif": "/react-electric-vehicles/static/media/ford-mustang-mach-e-premium_front.b0cfaa1b497de9428e6d.avif",
-    "service-worker.js": "/react-electric-vehicles/service-worker.js",
     "static/media/ford-mustang-mach-e-premium_back.avif": "/react-electric-vehicles/static/media/ford-mustang-mach-e-premium_back.4eeeb66c831c72f4c499.avif",
     "static/media/mercedes-eqb-250_front.avif": "/react-electric-vehicles/static/media/mercedes-eqb-250_front.e445072e6d05e7c7e651.avif",
     "static/media/tesla-model-y_dashboard.avif": "/react-electric-vehicles/static/media/tesla-model-y_dashboard.5ed0f3842397355ba015.avif",
@@ -95,12 +95,12 @@
     "static/media/mercedes-eqb-250_backseats.avif": "/react-electric-vehicles/static/media/mercedes-eqb-250_backseats.cb9c559bbfaecd994f86.avif",
     "static/media/audi-q4-sportback_trunk.avif": "/react-electric-vehicles/static/media/audi-q4-sportback_trunk.ee22c62388070da3cfa8.avif",
     "index.html": "/react-electric-vehicles/index.html",
-    "main.5c2d694b.css.map": "/react-electric-vehicles/static/css/main.5c2d694b.css.map",
-    "main.f13eea08.js.map": "/react-electric-vehicles/static/js/main.f13eea08.js.map",
+    "main.1571a931.css.map": "/react-electric-vehicles/static/css/main.1571a931.css.map",
+    "main.fbf576df.js.map": "/react-electric-vehicles/static/js/main.fbf576df.js.map",
     "488.86754ba4.chunk.js.map": "/react-electric-vehicles/static/js/488.86754ba4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5c2d694b.css",
-    "static/js/main.f13eea08.js"
+    "static/css/main.1571a931.css",
+    "static/js/main.fbf576df.js"
   ]
 }
